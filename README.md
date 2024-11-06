@@ -22,7 +22,12 @@ KDT 과정 학습 내용 요약 <br>
 AI 전체 학습 내용 코드 <br>
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github&logoColor=white)](https://github.com/tommyjin2894/ai_study)
 
+---
 
+### 🌱 현재 학습 중
+
+Transformer 학습 내용 코드 <br>
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github&logoColor=white)](https://github.com/tommyjin2894/ai_study_transformer)
 
 ---
 
@@ -39,14 +44,6 @@ AI 전체 학습 내용 코드 <br>
 ### 🏇 머신 러닝 기반 경마 순위 예측 모델
 - **기간**: 2024년 6월
 - **🔗 깃 링크**: [경마_순위_예측_모델](https://github.com/tommyjin2894/KDT_project1)
-
----
----
-
-### 🌱 현재 학습 중
-
-Transformer 학습 내용 코드 <br>
-[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github&logoColor=white)](https://github.com/tommyjin2894/ai_study_transformer)
 
 ---
 

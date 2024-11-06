@@ -1,7 +1,4 @@
-## Hi there 👋
-
-**tommyjin2894/tommyjin2894** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+##프로필##
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

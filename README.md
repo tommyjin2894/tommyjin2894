@@ -24,7 +24,7 @@ AI 전체 학습 내용 코드 <br>
 
 ---
 
-### 🌱 현재 학습 중
+🌱 현재 학습 중 <br>
 
 Transformer 학습 내용 코드 <br>
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github&logoColor=white)](https://github.com/tommyjin2894/ai_study_transformer)

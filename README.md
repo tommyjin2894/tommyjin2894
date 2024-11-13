@@ -29,6 +29,9 @@ Transformer 학습 내용 코드 : 🌱 현재 학습 중 <br>
 
 # 🚀 프로젝트 리스트
 
+### 개인 프로젝트 (예정): llava 경량화 모델 파인튜닝 관련 모델
+- **기간**: 🌱 현재 학습 transformer 학습 완료 후
+
 ### 🖼️ SNS 사진 분석 댓글 및 피드백 프로젝트
 - **기간**: 2024년 8월 - 2024년 9월
 - **🔗 깃 링크**: [SNS_사진_분석_프로젝트-프론트](https://github.com/tommyjin2894/project_3_service), [SNS_사진_분석_프로젝트-모델 개발](https://github.com/tommyjin2894/project_3_git)

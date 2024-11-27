@@ -5,6 +5,10 @@
 
 끊임없이 배우고 성장을 목표로 하고 있습니다. <br>
 
+- e-mail: tommyjin2894@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/진형-박-30ba07311/)
+- [🤗huggingface🤗](https://huggingface.co/tommyjin)
+
 ### 📊 GitHub 통계
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tommyjin2894&layout=compact&theme=tokyonight)
@@ -43,12 +47,3 @@ Transformer 학습 내용 코드 : 🌱 현재 학습 중 <br>
 ### 🏇 머신 러닝 기반 경마 순위 예측 모델
 - **기간**: 2024년 6월
 - **🔗 깃 링크**: [경마_순위_예측_모델](https://github.com/tommyjin2894/KDT_project1)
-
----
-
-### 연락처
-
-- [LinkedIn](https://www.linkedin.com/in/진형-박-30ba07311/)
-- 이메일: tommyjin2894@gmail.com
-
----

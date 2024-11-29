@@ -8,6 +8,7 @@
 - e-mail: tommyjin2894@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/진형-박-30ba07311/)
 - [🤗huggingface🤗](https://huggingface.co/tommyjin)
+- [📝포트폴리오 링크📝](https://docs.google.com/presentation/d/1BDeIvc4A9T73v4HjWmjzHEGx3yPKY4_3AARpN246wJs/edit#slide=id.p)
 
 ### 📊 GitHub 통계
 

@@ -26,7 +26,7 @@
 - Frameworks and Tools
   - **2024.09-2024.12** : [Natural Language Processing with Transformers](https://github.com/tommyjin2894/ai_study_transformer)
   - **2024.12-2024.12** : [RAG, Langchain with codes](https://github.com/tommyjin2894/ai_study_LangChain_with_RAG), 
-  - **2025.01-2025.01** : [coursera MLOps basics](https://github.com/tommyjin2894/20240103_coursera_mlops), 
+  - **2025.01-2025.01** : [coursera MLOps basics](https://github.com/tommyjin2894/20250103_coursera_mlops), 
 ---
 
 # 🚀 프로젝트 리스트

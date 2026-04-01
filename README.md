@@ -1,36 +1,32 @@
-# 소개
-안녕하세요! 박진형 입니다. 🤓 <br>
-⭐저의 GitHub에 방문해 주셔서 감사합니다. <br>
+# 박진형 | AI Solution Engineer
 
-AI 모델 💻 | CS 기초 📚 | C/Linux 🛠️ 학습 중 <br>
-백엔드 공부 계획 중 <br>
+AI 모델 학습/최적화부터 엣지 디바이스 배포까지, 온프레미스 환경에서의 AI 솔루션을 개발하고 있습니다.
 
-✨끊임없는 성장을 목표로 하고 있습니다.🌟 <br>
+현재 **루커스(Lukus) AI연구소**에서 Edge AI 시스템 및 음성 AI 파이프라인을 설계/개발하고 있습니다.
 
-### [노션 링크](https://royal-offer-53a.notion.site/Tommy-s-134f678f80468007b265d54d5952da14)
-### Social and Contact
-- tommyjin2894@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/진형-박-30ba07311/)
-- [🤗huggingface🤗](https://huggingface.co/tommyjin)
+## Tech Stack
 
-### 📊 GitHub 통계
+**AI / ML** : PyTorch · YOLOv5/v8 · Faster-Whisper · GPT-SoVITS · BERT-VITS2 · Qwen/Llama · LoRA · GGUF · TensorRT · ONNX
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tommyjin2894&layout=compact&theme=tokyonight)
+**Backend** : Python · FastAPI · aiohttp · Node.js · Docker · WebSocket · MQTT · Kafka
 
-# 🚀 프로젝트 리스트
+**Edge AI** : NVIDIA Jetson (Orin/Nano) · CUDA · llama.cpp · CTranslate2 · Kneron KL630 · RKNN
 
-### 개인 프로젝트 : RKNN(aio3588Q) Npu 장비 YOLO-WORLD, LLM
-- **기간** : 2024년 12월 - 2025 1월
-- **🔗 깃 링크**: [RKNN_Project](https://github.com/tommyjin2894/rknn_project)
+## Projects
 
-### 🖼️ SNS 사진 분석 댓글 및 피드백 프로젝트
-- **기간**: 2024년 8월 - 2024년 9월
-- **🔗 깃 링크**: [SNS_사진_분석_프로젝트-모델 개발](https://github.com/tommyjin2894/project_3_git), [SNS_사진_분석_프로젝트-프론트](https://github.com/tommyjin2894/project_3_service)
+> 상세 프로젝트 문서는 [**Portfolio**](https://github.com/tommyjin2894/portfolio) 레포에서 확인할 수 있습니다.
 
-### 🗣️ 욕설 분류 모델
-- **기간**: 2024년 7월 - 2024년 8월
-- **🔗 깃 링크**: [욕설_분류_모델](https://github.com/tommyjin2894/KDT_project2)
+| Project | Description |
+|---------|-------------|
+| [AIBOO Edge AI](https://github.com/tommyjin2894/portfolio/tree/main/projects/01-aiboo-edge-ai) | Jetson Orin 기반 STT/LLM/TTS 음성 대화 시스템 + IoT 센서 연동 |
+| [Koobiss CatchCam](https://github.com/tommyjin2894/portfolio/tree/main/projects/02-koobiss-catchcam) | Kneron KL630 NPU 화재 감지 AI 카메라 — 모델 양자화/포팅 |
+| [GPT-SoVITS TTS](https://github.com/tommyjin2894/portfolio/tree/main/projects/04-gpt-sovits-tts) | 한국어 음성 클로닝 및 다국어 TTS 추론 서버 |
+| [Fire/PPE Detection](https://github.com/tommyjin2894/portfolio/tree/main/projects/07-fire-ppe-detection) | YOLOv5 6클래스 학습 + TensorRT/NEF/RKNN 엣지 변환 |
+| [LLM Fine-tuning](https://github.com/tommyjin2894/portfolio/tree/main/projects/08-llm-finetuning) | Qwen LoRA 학습 → GGUF 양자화 → Ollama 로컬 배포 |
+| [Telemedicine](https://github.com/tommyjin2894/portfolio/tree/main/projects/09-telemedicine) | WebRTC 원격진료 + 바이탈 실시간 모니터링 백엔드 |
 
-### 🏇 머신 러닝 기반 경마 순위 예측 모델
-- **기간**: 2024년 6월
-- **🔗 깃 링크**: [경마_순위_예측_모델](https://github.com/tommyjin2894/KDT_project1)
+## Contact
+
+- Email: tommyjin2894@gmail.com
+- LinkedIn: [linkedin.com/in/진형-박-30ba07311](https://www.linkedin.com/in/진형-박-30ba07311/)
+- HuggingFace: [huggingface.co/tommyjin](https://huggingface.co/tommyjin)

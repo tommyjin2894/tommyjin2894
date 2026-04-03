@@ -1,4 +1,6 @@
-# 박진형 | AI Solution Engineer
+# 박진형 | AI Solution Engineer 
+
+https://tmpark.space/
 
 AI 모델 학습/최적화부터 엣지 디바이스 배포까지, 온프레미스 환경에서의 AI 솔루션을 개발하고 있습니다.
 
